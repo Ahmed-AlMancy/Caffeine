@@ -1,4 +1,4 @@
-package com.amsterdam.caffeine.ui.theme
+package com.amsterdam.caffeine.presentation.theme.ui
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
