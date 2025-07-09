@@ -1,6 +1,5 @@
-package com.amsterdam.caffeine.ui.theme
+package com.amsterdam.caffeine.presentation.theme.ui
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
